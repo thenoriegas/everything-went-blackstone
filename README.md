@@ -1,1 +1,1 @@
-![Everything Went Blackstone](cover.png)
+![Everything Went Blackstone](cover.jpg)
